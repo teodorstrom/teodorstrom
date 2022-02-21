@@ -1,4 +1,4 @@
-- 👋 Yo, I’m @teodorstrom
+- 👋 Hello, I’m @teodorstrom
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full-Stack Software Development
 - 📫 How to reach me -> @teddestrr
