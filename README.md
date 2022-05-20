@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @teodorstrom
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full-Stack Software Development
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full-Stack Web Development
 - 📫 How to reach me -> @teddestrr
 
 <!---
